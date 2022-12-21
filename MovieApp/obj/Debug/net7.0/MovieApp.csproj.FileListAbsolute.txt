@@ -1,0 +1,12 @@
+/home/t844/RiderProjects/MovieApp/MovieApp/bin/Debug/net7.0/MovieApp.deps.json
+/home/t844/RiderProjects/MovieApp/MovieApp/bin/Debug/net7.0/MovieApp.dll
+/home/t844/RiderProjects/MovieApp/MovieApp/bin/Debug/net7.0/MovieApp.pdb
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.csproj.AssemblyReference.cache
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.AssemblyInfoInputs.cache
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.AssemblyInfo.cs
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.csproj.CoreCompileInputs.cache
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.dll
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/refint/MovieApp.dll
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/MovieApp.pdb
+/home/t844/RiderProjects/MovieApp/MovieApp/obj/Debug/net7.0/ref/MovieApp.dll
